@@ -15,12 +15,11 @@
 - [x] Pie
 - [x] Scatter
 - [x] Histogram
-- [ ] 
 - [x] GUI
 - [x] Animation
 
 ## Images
 
-<img src="/images/capture1.PNG" width="450px" height="300px" title="px(픽셀) 크기 설정" alt="capture1"></img><br/>
-<img src="/images/capture2.PNG" width="450px" height="300px" title="px(픽셀) 크기 설정" alt="capture2"></img><br/>
-<img src="/images/capture3.PNG" width="450px" height="300px" title="px(픽셀) 크기 설정" alt="capture3"></img>
+<img src="/images/capture01.PNG" width="450px" height="300px" title="px(픽셀) 크기 설정" alt="capture1"></img><br/>
+<img src="/images/capture02.PNG" width="450px" height="300px" title="px(픽셀) 크기 설정" alt="capture2"></img><br/>
+<img src="/images/capture03.PNG" width="450px" height="300px" title="px(픽셀) 크기 설정" alt="capture3"></img>
