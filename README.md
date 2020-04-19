@@ -20,6 +20,6 @@
 
 ## Images
 
-<img src="/images/capture01.png" width="350px" height="400px" title="px(픽셀) 크기 설정" alt="capture1"></img><br/>
-<img src="/images/capture02.PNG" width="350px" height="400px" title="px(픽셀) 크기 설정" alt="capture2"></img><br/>
-<img src="/images/capture03.PNG" width="350px" height="400px" title="px(픽셀) 크기 설정" alt="capture3"></img>
+<img src="/images/capture01.png" width="500px" height="400px" title="px(픽셀) 크기 설정" alt="capture1"></img><br/>
+<img src="/images/capture02.PNG" width="500px" height="400px" title="px(픽셀) 크기 설정" alt="capture2"></img><br/>
+<img src="/images/capture03.PNG" width="500px" height="400px" title="px(픽셀) 크기 설정" alt="capture3"></img>
